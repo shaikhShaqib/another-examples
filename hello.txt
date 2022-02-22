@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 shaqib shaikh
+=======
+my name is Shaqib
+>>>>>>> branch1
